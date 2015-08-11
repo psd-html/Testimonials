@@ -8,9 +8,9 @@ Afficher les témoignages sur votre site PluXml
 Page d'administration du plugin
 --------------
 
-![Alt text](http://nextum.fr/page1_testimonials.png.png)
+![Alt text](http://nextum.fr/page1_testimonials.png)
 
-![Alt text](http://nextum.fr/page2_testimonials.png.png)
+![Alt text](http://nextum.fr/page2_testimonials.png)
 
 
 Pour afficher le plugin
