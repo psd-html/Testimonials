@@ -18,7 +18,7 @@ Pour afficher le plugin
 
 <?php eval($plxShow->callHook('Testimonials')) ?> 
 
-Démo et tutoriel sur http://nextum.fr  avec le template Color
+Démo et tutoriel sur http://nextum.fr  avec le template Sofia
 
 
 
