@@ -29,7 +29,7 @@ class Testimonials extends plxPlugin {
 
 			$nbcommentaire = $nbcommentaire + 1;
 
-			?><style>.commentaire{font-style: italic;color:#fff}</style><?php
+			?><style>.commentaire{font-style: italic}</style><?php
 		
 			for($i=1; $i<$nbcommentaire; $i++) { // boucle pour afficher les commentaires
 
