@@ -159,7 +159,7 @@ if(!empty($_POST)) {
     <h2>information</h2>
     <p>Pour afficher le plugin, il suffit de placer sur code dans votre template</p>
     <br>
-    <code>&lt;?php eval($plxShow->callHook('Testimonials')); ?&gt;</code>
+    <code>&lt;?php eval($plxShow->callHook('Tesimonials')); ?&gt;</code>
     <br>
     <p>Si vous avez des questions, merci de me contacter sur mon site: <a href="http://libertea.fr">http://libertea.fr</a></p>
 </div>
